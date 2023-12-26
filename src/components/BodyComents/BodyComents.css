@@ -1,0 +1,14 @@
+.container__coments{
+    display: flex;
+    flex-direction: row;
+    gap:40px;
+    
+}
+
+
+.coments_text{
+    display: flex;
+    flex-direction: column;
+    gap:80px;
+    font-size:1.2rem;
+}
